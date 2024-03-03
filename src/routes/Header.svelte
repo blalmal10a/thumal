@@ -32,7 +32,7 @@
 	</nav> -->
 
 	<div class="corner">
-		<a href="https://github.com/blalmal10a" target="_blank">
+		<a href="https://github.com/blalmal10a/thumal" target="_blank">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
