@@ -92,11 +92,11 @@
 <svelte:window on:keydown={keydown} />
 
 <svelte:head>
-	<title>Sverdle</title>
+	<title>Thumal</title>
 	<meta name="description" content="Mizo thumal inrinsiak." />
 </svelte:head>
 
-<h1 class="visually-hidden">Sverdle</h1>
+<h1 class="visually-hidden">Thumal</h1>
 
 <form
 	method="POST"
